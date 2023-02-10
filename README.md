@@ -1,1 +1,1 @@
-Ronnie ans Clovers React Component Library for WebDev Job
+Ronnie and Clovers React Component Library for WebDev Job
