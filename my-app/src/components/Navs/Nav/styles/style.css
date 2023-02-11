@@ -1,0 +1,21 @@
+.nav-container {
+  display: flex;
+  width: 100%;
+  outline: 1px solid red;
+  height: 60px;
+}
+.nav-container .logo {
+  height: 60px;
+  width: 50px;
+  background-color: green;
+  outline: 1px solid red;
+}
+.nav-container .content {
+  height: 60px;
+  flex: 1 1;
+  display: flex;
+  background-color: grey;
+}
+.nav-container .content .nav .items {
+  display: flex;
+}/*# sourceMappingURL=style.css.map */

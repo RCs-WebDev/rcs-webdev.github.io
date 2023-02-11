@@ -1,0 +1,11 @@
+navbar_todo:
+
+1 align menu to left
+
+2 space topics to center
+
+gonna eat somethign
+
+im going to share my screen help me pick a hero design
+
+ta bom

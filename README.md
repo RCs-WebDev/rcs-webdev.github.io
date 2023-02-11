@@ -9,3 +9,12 @@ to redepoly after new work is added run `npm run deploy`
 ## React Icons
 
 I've installed the react icons library https://react-icons.github.io/react-icons/
+
+
+## SASS
+
+node-sass compiler
+
+npm install -g node-sass
+navigate to .scss folder using cd command
+use node-sass <filename>.scss <outputfilename>.css

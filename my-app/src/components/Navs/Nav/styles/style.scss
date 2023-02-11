@@ -1,0 +1,28 @@
+.nav-container {
+  display: flex;
+  width: 100%;
+  outline: 1px solid red;
+  height: 60px;
+  .logo {
+    height: 60px;
+    width: 50px;
+    background-color: green;
+    outline: 1px solid red;
+  }
+  .content {
+    height: 60px;
+    flex: 1 1; // brb
+    display: flex;
+    background-color: grey;
+
+    .nav {
+      .items {
+        display: flex;
+        .item {
+          a {
+          }
+        }
+      }
+    }
+  }
+}
